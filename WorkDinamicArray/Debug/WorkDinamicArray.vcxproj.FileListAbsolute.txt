@@ -1,0 +1,2 @@
+C:\Users\Sofi\source\repos\WorkDinamicArray\Debug\WorkDinamicArray.exe
+C:\Users\Sofi\source\repos\WorkDinamicArray\Debug\WorkDinamicArray.pdb
